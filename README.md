@@ -66,7 +66,7 @@
 ### 1. Справочники
 *Небольшой комментарий курсивом*
 - [**Mike Albano's Clients List**](http://clients.mikealbano.com/) *сводная по клиентским устройствам и их Wi-Fi-характеристикам*
-- [**WikiDevi**](https://wikidevi.com/wiki/Main_Page) *открытая база данных по начинкам сетевых устройств [**[зеркало]**](https://deviwiki.com/wiki/Category:Device_list_pages)*
+- [**WikiDevi**](https://deviwiki.com/wiki/Main_Page) *открытая база данных по начинкам сетевых устройств [**[зеркало]**](https://wikidevi.wi-cat.ru/Main_Page)*
 - [**Wi-Fi Alliance**](https://www.wi-fi.org/product-finder) *список устройств, прошедших сертификацию Wi-Fi Alliance*
 - [**MCS index**](http://mcsindex.com/) *сводная таблица с зависимостью пропускной способности от модуляции/ширины канала/количества пространственных потоков*
 - [**FCC ID Search**](https://www.fcc.gov/oet/ea/fccid) *узнать характеристики по FCC ID*
