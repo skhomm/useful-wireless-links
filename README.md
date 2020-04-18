@@ -44,18 +44,18 @@
 [Up](#useful-wireless-links)
 
 ### 1. Базовый уровень
-1.  [**CWNA-107 Study Guide by D. Coleman & A. Westcott (Sybex, 2018)**](https://www.wiley.com/en-us/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+107%2C+5th+Edition-p-9781119425786) *пожалуй, лучшая книга по основам Wi-Fi*
-1.  [**Официальные учебные пособия от CWNP**](https://www.cwnp.com/buy-it-training-products/) *подходят для поверхностной подготовки к экзаменам*
-1.  [**Wi-Fi for dummies**](https://wifi.ekahau.com/Wifidummies) *бесплатное пособие по Wi-Fi для начинающих от Ekahau*
-1.  [**Технологии современных беспроводных сетей Wi-Fi**](http://baumanpress.ru/books/567/567.pdf) *наш ответ Западу под редакцией А.В. Пролетарского*
+- [**CWNA-107 Study Guide by D. Coleman & A. Westcott (Sybex, 2018)**](https://www.wiley.com/en-us/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+107%2C+5th+Edition-p-9781119425786) *пожалуй, лучшая книга по основам Wi-Fi*
+- [**Официальные учебные пособия от CWNP**](https://www.cwnp.com/buy-it-training-products/) *подходят для поверхностной подготовки к экзаменам*
+- [**Wi-Fi for dummies**](https://wifi.ekahau.com/Wifidummies) *бесплатное пособие по Wi-Fi для начинающих от Ekahau*
+- [**Технологии современных беспроводных сетей Wi-Fi**](http://baumanpress.ru/books/567/567.pdf) *наш ответ Западу под редакцией А.В. Пролетарского*
 
 
 ### 2. Продвинутый уровень
-1.  [**CWSP Study Guide (Sybex, 2016)**](https://www.wiley.com/en-us/CWSP+Certified+Wireless+Security+Professional+Study+Guide%3A+Exam+CWSP+205%2C+2nd+Edition-p-9781119211099) *детальный разбор всех аспектов безопасности беспроводных сетей*
-1.  [**CWDP Study Guide (Sybex, 2011)**](https://www.wiley.com/en-us/CWDP+Certified+Wireless+Design+Professional+Official+Study+Guide%3A+Exam+PW0+250-p-9781118041611) *отличная книга о проектировании беспроводных сетей, почти не потерявшая актуальности со времён 802.11n*
-1.  [**CWAP Study Guide (Sybex, 2011)**](https://www.wiley.com/en-us/CWAP+Certified+Wireless+Analysis+Professional+Official+Study+Guide%3A+Exam+PW0+270-p-9781118075234) *глубокое погружение в принципы работы Wi-Fi от звёздных авторов*
-1.  [**802.11ac: A Survival Guide**](http://shop.oreilly.com/product/0636920027768.do) *разбираемся с 802.11ac в деталях*
-1.  [**Next Generation Wireless LANs**](https://www.amazon.com/Next-Generation-Wireless-LANs-802-11ac/dp/1107016762) *глубже - только в стандарте*
+- [**CWSP Study Guide (Sybex, 2016)**](https://www.wiley.com/en-us/CWSP+Certified+Wireless+Security+Professional+Study+Guide%3A+Exam+CWSP+205%2C+2nd+Edition-p-9781119211099) *детальный разбор всех аспектов безопасности беспроводных сетей*
+- [**CWDP Study Guide (Sybex, 2011)**](https://www.wiley.com/en-us/CWDP+Certified+Wireless+Design+Professional+Official+Study+Guide%3A+Exam+PW0+250-p-9781118041611) *отличная книга о проектировании беспроводных сетей, почти не потерявшая актуальности со времён 802.11n*
+- [**CWAP Study Guide (Sybex, 2011)**](https://www.wiley.com/en-us/CWAP+Certified+Wireless+Analysis+Professional+Official+Study+Guide%3A+Exam+PW0+270-p-9781118075234) *глубокое погружение в принципы работы Wi-Fi от звёздных авторов*
+- [**802.11ac: A Survival Guide**](http://shop.oreilly.com/product/0636920027768.do) *разбираемся с 802.11ac в деталях*
+- [**Next Generation Wireless LANs**](https://www.amazon.com/Next-Generation-Wireless-LANs-802-11ac/dp/1107016762) *глубже - только в стандарте*
 
 ### 3. Стандарты IEEE
 - [**IEEE 802.11 2016**](https://standards.ieee.org/standard/802_11-2016.html) *да, стандарт можно скачать*
