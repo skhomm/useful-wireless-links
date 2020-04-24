@@ -206,3 +206,5 @@
 
 Всё, можно идти на собеседование. 
 После успешного приёма на работу начинаем готовиться к CWNA и читать лучшее пособие по теме: [**CWNA-107 Study Guide by D. Coleman & A. Westcott (Sybex, 2018)**](https://www.wiley.com/en-us/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+107%2C+5th+Edition-p-9781119425786).
+
+Дима тестирует процедуру pull request.
