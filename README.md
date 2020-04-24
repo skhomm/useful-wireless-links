@@ -178,6 +178,7 @@
 
 ### 1. Best Practices
 - [**Cisco guide on Voice**](https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/vowlan/41dg/vowlan41dg-book/vowlan_ch8.html) *Рекомендации Cisco по проектированию Wi-Fi под голосовые сервисы*
+- [**Ruckus High Density Wi-Fi**](https://support.ruckuswireless.com/documents/1345-high-density-wi-fi-best-practices-ap-deployment-guide) *Рекомендации Ruckus по разворачиванию High Density Wi-Fi*
 
 ### 2. White Papers
 - [**Aruba 802.11ax White Paper**](https://www.cwnp.com/) *хороший обзор технологий Wi-Fi 6*
