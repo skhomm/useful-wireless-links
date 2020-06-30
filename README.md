@@ -32,7 +32,8 @@
     - [1. Организации](#1-Организации)
     - [2. Блоги](#2-Блоги)
     - [3. Каналы и подкасты](#3-Каналы-и-подкасты)
-    - [3. Социальные сети](#4-Социальные-сети)
+    - [4. Социальные сети](#4-Социальные-сети)
+    - [5. События](#5-События)
    
 - [VI. Вендорские материалы](#vi-Вендорские-материалы)
     - [1. Best Practices](#1-Best-Practices)
@@ -49,7 +50,6 @@
 - [**Wi-Fi for dummies**](https://wifi.ekahau.com/Wifidummies) *бесплатное пособие по Wi-Fi для начинающих от Ekahau*
 - [**Технологии современных беспроводных сетей Wi-Fi**](http://baumanpress.ru/books/567/567.pdf) *наш ответ Западу под редакцией А.В. Пролетарского*
 
-
 ### 2. Продвинутый уровень
 - [**CWSP Study Guide (Sybex, 2016)**](https://www.wiley.com/en-us/CWSP+Certified+Wireless+Security+Professional+Study+Guide%3A+Exam+CWSP+205%2C+2nd+Edition-p-9781119211099) *детальный разбор всех аспектов безопасности беспроводных сетей*
 - [**CWDP Study Guide (Sybex, 2011)**](https://www.wiley.com/en-us/CWDP+Certified+Wireless+Design+Professional+Official+Study+Guide%3A+Exam+PW0+250-p-9781118041611) *отличная книга о проектировании беспроводных сетей, почти не потерявшая актуальности со времён 802.11n*
@@ -64,7 +64,6 @@
 [Up](#useful-wireless-links)
 
 ### 1. Справочники
-*Небольшой комментарий курсивом*
 - [**Mike Albano's Clients List**](http://clients.mikealbano.com/) *сводная по клиентским устройствам и их Wi-Fi-характеристикам*
 - [**WikiDevi**](https://deviwiki.com/wiki/Main_Page) *открытая база данных по начинкам сетевых устройств [**[зеркало]**](https://wikidevi.wi-cat.ru/Main_Page)*
 - [**Wi-Fi Alliance**](https://www.wi-fi.org/product-finder) *список устройств, прошедших сертификацию Wi-Fi Alliance*
@@ -76,6 +75,7 @@
 - [**Таблица модуляций для 802.11ax**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXoEYLGWrR1aGyGaTXOOaDQSPLfeC4rv70KRFuRP6eZ5fL-Ku_YI6DgS6zZMNyIhQpQmnKQ1O7abij/pubhtml?gid=1367372895&single=true) *2880 новых сочетаний*
 - [**MA:CV:en:do:rs**](https://macvendors.com/) *узнай вендора по MAC*
 - [**WLANpedia**](https://www.wlanpedia.org/) *Wiki по беспроводным технологиям*
+- [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
 
 ### 2. Руководства
 - [**Packet Capture in Windows**](https://badfi.com/blog/2018/6/14/options-for-wireless-packet-capture-in-windows) *как делать PacketCapture на Windows и избежать боли*
@@ -173,6 +173,9 @@
 - [**Slack**](https://twitter.com/samuel_clements/status/834866851935088640?s=20) *сообщество в Slack, приглашение можно получить по ссылке*
 - [**Telegram**](https://t.me/EvilWirelessChat) *злой беспроводной чат в Telegram*
 
+### 5. События
+- [**Календарь Булочки**](https://trello.com/b/QOTqDwgV/беспроводные-события/calendar) *актуальная сводка мероприятий беспроводной направленности*
+
 ## VI. Вендорские материалы
 [Up](#useful-wireless-links)
 
@@ -194,6 +197,7 @@
 
 ### 2. Курс молодого бойца
 Начинаем с этого:
+- [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
 - [**Wi-Fi for dummies**](https://wifi.ekahau.com/Wifidummies) *бесплатное пособие по Wi-Fi для начинающих от Ekahau*
 - [**Технологии современных беспроводных сетей Wi-Fi**](http://baumanpress.ru/books/567/567.pdf) *основы 802.11 на русском*
 
