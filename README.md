@@ -76,6 +76,7 @@
 - [**MA:CV:en:do:rs**](https://macvendors.com/) *узнай вендора по MAC*
 - [**WLANpedia**](https://www.wlanpedia.org/) *Wiki по беспроводным технологиям*
 - [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
+- [**Master ECSE Student Info Page**](https://wlanprofessionals.com/master-ecse-student-info-page/) *хаб знаний для студентов Ekahau от WLAN-Pros*
 
 ### 2. Руководства
 - [**Packet Capture in Windows**](https://badfi.com/blog/2018/6/14/options-for-wireless-packet-capture-in-windows) *как делать PacketCapture на Windows и избежать боли*
