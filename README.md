@@ -117,7 +117,7 @@
 ### 4. Разное
 - [**Kali Linux**](https://www.kali.org/) *операционная система для пентестинга с широчайшим набором предустановленных инструментов*
 - [**AirTool**](https://www.adriangranados.com/apps/airtool) *простая утилита, позволяющая в два клика запускать PacketCapture на MacOS*
-- [**Boolochka's Ekahau BOM**](http://bit.ly/ekahau_bom) *Делаем Bill of Materials в Ekahau через шаблоны .*
+- [**Boolochka's Ekahau BOM**](http://bit.ly/ekahau_bom) *делаем Bill of Materials в Ekahau через шаблоны*
 
 ## IV. Гаджеты
 [Up](#useful-wireless-links)
