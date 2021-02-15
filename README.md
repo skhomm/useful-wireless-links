@@ -218,4 +218,4 @@
 
 
 ### 3. Less wireless
-- [**Python для сетевых инженеров**](https://pyneng.readthedocs.io/ru/latest/) *Бесплатный учебник по Python от Наташи Самойленко.*
+- [**Python для сетевых инженеров**](https://pyneng.readthedocs.io/ru/latest/) *бесплатный учебник по Python от Наташи Самойленко*
