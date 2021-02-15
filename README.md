@@ -99,6 +99,7 @@
 - [**TamoGraph Site Survey**](https://www.tamos.ru/products/wifi-site-survey/) *планирование и Site Survey от TamoSoft*
 - [**iBwave Design**](http://www.ibwave.com/ibwave-design) *3D-планирование, но без Site Survey*
 - [**AirMagnet**](https://www.netally.com/products/airmagnet-survey-pro/) *планирование и Site Survey от бывших лидеров рынка*
+- [**Netspotapp**](https://www.netspotapp.com/ru/features.html) *сёрви для экономных*
 
 ### 2. Анализ и диагностика
 - [**WinFi**](http://www.helge-keck.com/index.html) *мощнейший сканер Wi-Fi сетей для Windows*
@@ -116,6 +117,7 @@
 ### 4. Разное
 - [**Kali Linux**](https://www.kali.org/) *операционная система для пентестинга с широчайшим набором предустановленных инструментов*
 - [**AirTool**](https://www.adriangranados.com/apps/airtool) *простая утилита, позволяющая в два клика запускать PacketCapture на MacOS*
+- [**Boolochka's Ekahau BOM**](http://bit.ly/ekahau_bom) *Делаем Bill of Materials в Ekahau через шаблоны .*
 
 ## IV. Гаджеты
 [Up](#useful-wireless-links)
@@ -190,16 +192,12 @@
 ## Бонусы
 [Up](#useful-wireless-links)
 
-### 1. Wi-Fi 6
-- [**802.11ax for dummies**](https://content.aerohive.com/802.11ax_dummies_book) *David Coleman о 802.11ax простым языком*
-- [**Tutorial on IEEE 802.11ax**](https://ieeexplore.ieee.org/document/8468986) *глубокое погружение от IEEE*
-- [**Тест Wi-Fi 6 от WiFi Ninjas**](https://wifininjas.net/index.php/2019/07/03/wn-blog-003-wifi-6-deep-dive-real-world-testing/) *практическое тестирование с packet capture и спектральным анализом*
 
-
-### 2. Курс молодого бойца
+### 1. Курс молодого бойца
 Начинаем с этого:
 - [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
 - [**Wi-Fi for dummies**](https://wifi.ekahau.com/Wifidummies) *бесплатное пособие по Wi-Fi для начинающих от Ekahau*
+- [**RF Elements Inside wireless**](https://youtube.com/playlist?list=PLii-eQuaf57ocpSGH6NR8IKtJvB9mb81h) *радио для самых маленьких от RF Element*
 - [**Технологии современных беспроводных сетей Wi-Fi**](http://baumanpress.ru/books/567/567.pdf) *основы 802.11 на русском*
 
 Смотрим и пересматриваем это:
@@ -212,3 +210,12 @@
 
 Всё, можно идти на собеседование. 
 После успешного приёма на работу начинаем готовиться к CWNA и читать лучшее пособие по теме: [**CWNA-107 Study Guide by D. Coleman & A. Westcott (Sybex, 2018)**](https://www.wiley.com/en-us/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+107%2C+5th+Edition-p-9781119425786).
+
+### 2. Wi-Fi 6
+- [**802.11ax for dummies**](https://content.aerohive.com/802.11ax_dummies_book) *David Coleman о 802.11ax простым языком*
+- [**Tutorial on IEEE 802.11ax**](https://ieeexplore.ieee.org/document/8468986) *глубокое погружение от IEEE*
+- [**Тест Wi-Fi 6 от WiFi Ninjas**](https://wifininjas.net/index.php/2019/07/03/wn-blog-003-wifi-6-deep-dive-real-world-testing/) *практическое тестирование с packet capture и спектральным анализом*
+
+
+### 3. Less wireless
+- [**Python для сетевых инженеров**](https://pyneng.readthedocs.io/ru/latest/) *Бесплатный учебник по Python от Наташи Самойленко.*
