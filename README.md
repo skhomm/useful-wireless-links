@@ -209,7 +209,7 @@
 - [**Wireless Clients - The Real Story.**](https://www.youtube.com/watch?v=dHm4NwH3bbs)
 
 Всё, можно идти на собеседование. 
-После успешного приёма на работу начинаем готовиться к CWNA и читать лучшее пособие по теме: [**CWNA-107 Study Guide by D. Coleman & A. Westcott (Sybex, 2018)**](https://www.wiley.com/en-us/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+107%2C+5th+Edition-p-9781119425786).
+После успешного приёма на работу начинаем готовиться к CWNA и читать лучшее пособие по теме: [**CWNA Certified Wireless Network Administrator Study Guide: Exam CWNA-108, 6th Edition - David D. Coleman, David A. Westcott (Sybex, 2021)**](https://www.wiley.com/en-ru/CWNA+Certified+Wireless+Network+Administrator+Study+Guide%3A+Exam+CWNA+108%2C+6th+Edition-p-9781119734536).
 
 ### 2. Wi-Fi 6
 - [**802.11ax for dummies**](https://content.aerohive.com/802.11ax_dummies_book) *David Coleman о 802.11ax простым языком*
