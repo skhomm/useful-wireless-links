@@ -86,6 +86,7 @@
 - [**Revolution Wi-Fi Capacity Planner**](http://www.revolutionwifi.net/capacity-planner/) *калькулятор ёмкости: сколько точек доступа необходимо при заданном ТЗ*
 - [**EverythingRF calculators**](https://www.everythingrf.com/rf-calculators) *FSPL, зона Френеля, бюджет радиолинка и прочие калькуляторы*
 - [**The WiFi AirTime Calculator**](https://gjermundraaen.com/thewifiairtimecalculator/) *пугающий, невероятно наглядный и удобный калькулятор Airtime от Gjermund Raaen*
+- [**Калькулятор зоны покрытия**](https://docs.google.com/spreadsheets/d/1H77WMAF4jIbEHMSoRQj1ge7_VwTRELpU_SiUPSFpVxU) *Кирилл Луконин отвечает на классический вопрос о том как далеко бьёт точка*
 
 ### 4. Инфографика
 - [**EMANIM Wave Visualization**](https://emanim.szialab.org/index.html) *наглядная визуализация распространения электромагнитных волн*
@@ -113,6 +114,7 @@
 - [**Fing**](https://www.fing.com/) *набор инструментов для траблшутинга L2 и L3 с мобильного*
 - [**Dioptra**](https://play.google.com/store/apps/details?id=com.glidelinesystems.dioptra&hl=ru) *камера смартфона превращается в удобный инструмент для позиционирования антенн*
 - [**Aruba Utilities**](https://community.arubanetworks.com/t5/Aruba-Apps/Aruba-Utilities-introduction-and-User-Guide-Rev-2-4/td-p/44166) *больше, чем просто сканер Wi-Fi сетей для Android*
+- [**Диагностический профиль для iOS**](http://www.my80211.com/home/2019/10/5/ios-13-and-ipados-wi-fi-diagnostics.html) *Расширенная информация о беспроводной сети для мобильных устройств Apple*
 
 ### 4. Разное
 - [**Kali Linux**](https://www.kali.org/) *операционная система для пентестинга с широчайшим набором предустановленных инструментов*
@@ -188,6 +190,7 @@
 
 ### 2. White Papers
 - [**Aruba 802.11ax White Paper**](https://www.cwnp.com/) *хороший обзор технологий Wi-Fi 6*
+- [**Нагрузочное тестирование точек**](https://www.broadband-forum.org/download/TR-398.pdf) *Методика грамотного проведения нагрузочного тестирования*
 
 ## Бонусы
 [Up](#useful-wireless-links)
