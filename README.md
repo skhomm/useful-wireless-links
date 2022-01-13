@@ -130,6 +130,7 @@
 - [**AirCheck G2**](https://www.netally.com/products/aircheck/) *быстрый и функциональный тестер Wi-Fi сетей без спектрального анализа*
 - [**Направленная антенна**](https://www.alfadistribution.com/alfa-network-apa-m25-2-4-5ghz-dual-band-indoor-antenna/) *поможет найти источник интерференции*
 - [**The WiFiStand**](https://wifistand.com/) *стойка для AP on a stick*
+- [**WiFiStand**](https://www.thingiverse.com/thing:4819305) *3d печатный вариант стойки для AP on a stick*
 - [**Accelerator PoE+ Battery Pack**](shop.acceltex.com/index.php?cPath=2531) *специализированное решение для питания AP on a stick*
 - [**Power Bank 220V**](https://market.yandex.ru/product--akkumuliator-cactus-cs-pbhtbp-20800/103390265/spec?track=tabs) *220V на выходе при компактных габаритах - бюджетное решение для AP on the stick*
 
