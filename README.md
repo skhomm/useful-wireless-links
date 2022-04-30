@@ -74,9 +74,10 @@
 - [**Wireshark Filters**](https://www.semfionetworks.com/blog/wireshark-most-common-80211-filters) *самые полезные фильтры для Wireshark, используемые в Wi-Fi.*
 - [**Таблица модуляций для 802.11ax**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXoEYLGWrR1aGyGaTXOOaDQSPLfeC4rv70KRFuRP6eZ5fL-Ku_YI6DgS6zZMNyIhQpQmnKQ1O7abij/pubhtml?gid=1367372895&single=true) *2880 новых сочетаний*
 - [**MA:CV:en:do:rs**](https://macvendors.com/) *узнай вендора по MAC*
-- [**WLANpedia**](https://www.wlanpedia.org/) *Wiki по беспроводным технологиям*
+- [**WLANpedia**](https://www.wlanpedia.org/) *wiki по беспроводным технологиям*
 - [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
 - [**Master ECSE Student Info Page**](https://wlanprofessionals.com/master-ecse-student-info-page/) *хаб знаний для студентов Ekahau от WLAN-Pros*
+- [**RF Wireless World**](https://www.rfwireless-world.com) *статьи, справочники, руководства и многое другое по теме беспроводки*
 
 ### 2. Руководства
 - [**Packet Capture in Windows**](https://badfi.com/blog/2018/6/14/options-for-wireless-packet-capture-in-windows) *как делать PacketCapture на Windows и избежать боли*
@@ -101,6 +102,7 @@
 - [**iBwave Design**](http://www.ibwave.com/ibwave-design) *3D-планирование, но без Site Survey*
 - [**AirMagnet**](https://www.netally.com/products/airmagnet-survey-pro/) *планирование и Site Survey от бывших лидеров рынка*
 - [**Netspotapp**](https://www.netspotapp.com/ru/features.html) *сёрви для экономных*
+- [**Центр Телекоммуникационных Технологий**](https://www.ctt-group.ru/programmy) *отечественное ПО для радиопланирования*
 
 ### 2. Анализ и диагностика
 - [**WinFi**](http://www.helge-keck.com/index.html) *мощнейший сканер Wi-Fi сетей для Windows*
@@ -114,7 +116,7 @@
 - [**Fing**](https://www.fing.com/) *набор инструментов для траблшутинга L2 и L3 с мобильного*
 - [**Dioptra**](https://play.google.com/store/apps/details?id=com.glidelinesystems.dioptra&hl=ru) *камера смартфона превращается в удобный инструмент для позиционирования антенн*
 - [**Aruba Utilities**](https://community.arubanetworks.com/t5/Aruba-Apps/Aruba-Utilities-introduction-and-User-Guide-Rev-2-4/td-p/44166) *больше, чем просто сканер Wi-Fi сетей для Android*
-- [**Диагностический профиль для iOS**](http://www.my80211.com/home/2019/10/5/ios-13-and-ipados-wi-fi-diagnostics.html) *Расширенная информация о беспроводной сети для мобильных устройств Apple*
+- [**Диагностический профиль для iOS**](http://www.my80211.com/home/2019/10/5/ios-13-and-ipados-wi-fi-diagnostics.html) *расширенная информация о беспроводной сети для мобильных устройств Apple*
 
 ### 4. Разное
 - [**Kali Linux**](https://www.kali.org/) *операционная система для пентестинга с широчайшим набором предустановленных инструментов*
@@ -173,6 +175,7 @@
 - [**CWNP Youtube Channel**](https://www.youtube.com/channel/UC4_fdLXjHf_Kd_PXKD3MxHw) *записи вебинаров, выступлений с конференций, новости Wi-Fi от CWNP*
 - [**WLAN PROS Youtube Channel**](https://www.youtube.com/channel/UCIzBSS46vcqhwmBZ7ZpY-yg) *подкасты, и видео с конференций от WLAN PROFESSIONALS*
 - [**Ekahau Youtube Channel**](https://www.youtube.com/channel/UCuhom3rBK4pX6VL656-K07A) *отличные вебинары от Ekahau с минимумом маркетинга*
+- [**7Signal**](https://www.youtube.com/user/7signal) *вебинары с минимумом воды и маркетинга*
 
 ### 4. Социальные сети
 - [**Twitter**](https://twitter.com/KeithRParsons) *основная площадка для общения в международном Wi-Fi-комьюнити*
@@ -186,12 +189,12 @@
 [Up](#useful-wireless-links)
 
 ### 1. Best Practices
-- [**Cisco guide on Voice**](https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/vowlan/41dg/vowlan41dg-book/vowlan_ch8.html) *Рекомендации Cisco по проектированию Wi-Fi под голосовые сервисы*
-- [**Ruckus High Density Wi-Fi**](https://support.ruckuswireless.com/documents/1345-high-density-wi-fi-best-practices-ap-deployment-guide) *Рекомендации Ruckus по разворачиванию High Density Wi-Fi*
+- [**Cisco guide on Voice**](https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/vowlan/41dg/vowlan41dg-book/vowlan_ch8.html) *рекомендации Cisco по проектированию Wi-Fi под голосовые сервисы*
+- [**Ruckus High Density Wi-Fi**](https://support.ruckuswireless.com/documents/1345-high-density-wi-fi-best-practices-ap-deployment-guide) *рекомендации Ruckus по разворачиванию High Density Wi-Fi*
 
 ### 2. White Papers
 - [**Aruba 802.11ax White Paper**](https://www.cwnp.com/) *хороший обзор технологий Wi-Fi 6*
-- [**Нагрузочное тестирование точек**](https://www.broadband-forum.org/download/TR-398.pdf) *Методика грамотного проведения нагрузочного тестирования*
+- [**Нагрузочное тестирование точек**](https://www.broadband-forum.org/download/TR-398.pdf) *методика грамотного проведения нагрузочного тестирования*
 
 ## Бонусы
 [Up](#useful-wireless-links)
