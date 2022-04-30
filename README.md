@@ -77,6 +77,7 @@
 - [**WLANpedia**](https://www.wlanpedia.org/) *Wiki по беспроводным технологиям*
 - [**Duckware Wi-Fi**](https://www.duckware.com/tech/wifi-in-the-us.html) *всё самое важное по основам Wi-Fi с упором в практику от Jerry Jongerius*
 - [**Master ECSE Student Info Page**](https://wlanprofessionals.com/master-ecse-student-info-page/) *хаб знаний для студентов Ekahau от WLAN-Pros*
+- [**RF Wireless World**](https://www.rfwireless-world.com) *Статьи, справочники, руководства и многое другое по теме беспроводки*
 
 ### 2. Руководства
 - [**Packet Capture in Windows**](https://badfi.com/blog/2018/6/14/options-for-wireless-packet-capture-in-windows) *как делать PacketCapture на Windows и избежать боли*
@@ -101,6 +102,7 @@
 - [**iBwave Design**](http://www.ibwave.com/ibwave-design) *3D-планирование, но без Site Survey*
 - [**AirMagnet**](https://www.netally.com/products/airmagnet-survey-pro/) *планирование и Site Survey от бывших лидеров рынка*
 - [**Netspotapp**](https://www.netspotapp.com/ru/features.html) *сёрви для экономных*
+- [**Центр Телекоммуникационных Технологий**](https://www.ctt-group.ru/programmy) *Отечественное ПО для радиопланирования*
 
 ### 2. Анализ и диагностика
 - [**WinFi**](http://www.helge-keck.com/index.html) *мощнейший сканер Wi-Fi сетей для Windows*
@@ -173,6 +175,7 @@
 - [**CWNP Youtube Channel**](https://www.youtube.com/channel/UC4_fdLXjHf_Kd_PXKD3MxHw) *записи вебинаров, выступлений с конференций, новости Wi-Fi от CWNP*
 - [**WLAN PROS Youtube Channel**](https://www.youtube.com/channel/UCIzBSS46vcqhwmBZ7ZpY-yg) *подкасты, и видео с конференций от WLAN PROFESSIONALS*
 - [**Ekahau Youtube Channel**](https://www.youtube.com/channel/UCuhom3rBK4pX6VL656-K07A) *отличные вебинары от Ekahau с минимумом маркетинга*
+- [**7Signal**](https://www.youtube.com/user/7signal) *Вебинары с минимумом воды и маркетинга*
 
 ### 4. Социальные сети
 - [**Twitter**](https://twitter.com/KeithRParsons) *основная площадка для общения в международном Wi-Fi-комьюнити*
