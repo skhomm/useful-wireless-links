@@ -122,7 +122,7 @@
 - [**Kali Linux**](https://www.kali.org/) *операционная система для пентестинга с широчайшим набором предустановленных инструментов*
 - [**AirTool**](https://www.adriangranados.com/apps/airtool) *простая утилита, позволяющая в два клика запускать PacketCapture на MacOS*
 - [**Boolochka's Ekahau BOM**](http://bit.ly/ekahau_bom) *делаем Bill of Materials в Ekahau через шаблоны*
-- [**Различные вопросы связанные с Ekahau**](https://github.com/gcastle2007/Ekahau) *замена USB разъёма, добавление кастомных точек, не видится Sidekick
+- [**Различные вопросы связанные с Ekahau**](https://github.com/gcastle2007/Ekahau) *замена USB разъёма, добавление кастомных точек, не видится Sidekick*
 
 ## IV. Гаджеты
 [Up](#useful-wireless-links)
