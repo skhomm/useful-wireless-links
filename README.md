@@ -111,11 +111,13 @@
 - [**Omnipeek**](https://www.liveaction.com/products/omnipeek-network-protocol-analyzer/) *протокольный анализатор, заточенный на работу с Wi-Fi*
 - [**Metageek Eye P.A.**](https://www.metageek.com/products/eye-pa/) *удивительно наглядный анализатор-интерпретатор Wi-Fi-фреймов*
 - [**CommView for Wi-Fi**](https://www.tamos.ru/download/main/ca.php) *PacketCapture на Windows с широким списком поддерживаемых адаптеров*
+- [**yfitool**](https://github.com/skhomm/yfitool) *утилита на python для автоматического сбора диагностики с ноутбуков*
 
 ### 3. Для мобильных
 - [**Fing**](https://www.fing.com/) *набор инструментов для траблшутинга L2 и L3 с мобильного*
 - [**Dioptra**](https://play.google.com/store/apps/details?id=com.glidelinesystems.dioptra&hl=ru) *камера смартфона превращается в удобный инструмент для позиционирования антенн*
-- [**Aruba Utilities**](https://community.arubanetworks.com/t5/Aruba-Apps/Aruba-Utilities-introduction-and-User-Guide-Rev-2-4/td-p/44166) *больше, чем просто сканер Wi-Fi сетей для Android*
+- [**Aruba Utilities**](https://community.arubanetworks.com/t5/Aruba-Apps/Aruba-Utilities-introduction-and-User-Guide-Rev-2-4/td-p/44166) *сканер Wi-Fi сетей для Android*
+- [**analiti Speed Test WiFi Analyzer**](https://play.google.com/store/apps/details?id=com.analiti.fastest.android) *больше, чем просто сканер Wi-Fi сетей для Android*
 - [**Диагностический профиль для iOS**](http://www.my80211.com/home/2019/10/5/ios-13-and-ipados-wi-fi-diagnostics.html) *расширенная информация о беспроводной сети для мобильных устройств Apple*
 
 ### 4. Разное
